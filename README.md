@@ -1,6 +1,12 @@
-# Devixa Tech
+<p align="center">
+  <img src="/assets/devixa-transparent.png" width="400">
+</p>
 
-**Devixa Tech** is an open-source organization focused on building **lightweight, practical, and quality-of-life (QOL) tools** for developers.
+<p align="center">
+  <a href="https://python.org" style="display:inline-block; margin:0;"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+</p>
+
+**𝓓𝓮𝐯𝒾𝔁𝒶 𝓣𝓮𝓬𝒽** is an open-source organization focused on building **lightweight, practical, and quality-of-life (QOL) tools** for developers.
 
 We create small utilities and reusable modules that aim to:
 - simplify everyday development tasks
@@ -12,7 +18,7 @@ Our projects are designed to be **simple, focused, and useful**, rather than ove
 
 ---
 
-## What We Work On
+## 💼 What We Work On
 
 - QOL tools for developers  
 - Small utilities and helper libraries  
@@ -27,7 +33,7 @@ Most projects are:
 
 ---
 
-## Open Source & Contributions
+## 🔓 Open Source & Contributions
 
 All projects under **Devixa Tech** are open source.
 
@@ -41,7 +47,7 @@ If you have an idea that fits the Devixa philosophy, feel free to open an issue 
 
 ---
 
-## Philosophy
+## 🏛️ Philosophy
 
 > Build small. Build useful. Build clean.
 
@@ -49,7 +55,7 @@ We believe good tools don’t have to be complex — they just need to solve rea
 
 ---
 
-## License
+## ⚖️ License
 
 Each repository includes its own license.  
 Please check individual projects for details.
